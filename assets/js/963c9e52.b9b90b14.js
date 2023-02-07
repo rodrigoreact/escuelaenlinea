@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[7664],{9450:e=>{e.exports=JSON.parse('{"label":"hello","permalink":"/escuelaenlinea/blog/tags/hello","allTagsPath":"/escuelaenlinea/blog/tags","count":2}')}}]);
